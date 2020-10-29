@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Dio Voice Mesh",
+    "slug": "dio-voice-mesh",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./sources/dio-brando.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.brando.dio",
+      "buildNumber": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Dio will never leave you now",
+
+    "android": {
+      "package": "com.brando.dio",
+      "versionCode": 1
+    }
+  }
+}
